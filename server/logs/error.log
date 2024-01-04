@@ -1,0 +1,2 @@
+error: Error in list items api - {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-16qst5-shard-0","maxElectionId":"7fffffff0000000000000206","maxSetVersion":7,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null}}
+error: Error in log in api - {}

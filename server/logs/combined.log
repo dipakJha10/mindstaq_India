@@ -1,0 +1,136 @@
+info: Application reatrted at 1704373149212
+info: Application reatrted at 1704373276766
+info: Application reatrted at 1704373457740
+info: Application reatrted at 1704373538390
+info: Application reatrted at 1704373607179
+info: Application reatrted at 1704373661592
+info: Application reatrted at 1704373756376
+info: Application reatrted at 1704373764142
+info: Application reatrted at 1704374002823
+info: Application reatrted at 1704374012286
+info: Application reatrted at 1704374083171
+info: Application reatrted at 1704374352098
+info: Application reatrted at 1704374362297
+info: Application reatrted at 1704374415250
+info: Application reatrted at 1704374543770
+info: Application reatrted at 1704374613118
+info: Application reatrted at 1704374627741
+info: Application reatrted at 1704374636847
+info: Application reatrted at 1704374644939
+info: Application reatrted at 1704374699341
+info: Application reatrted at 1704374710788
+info: Application reatrted at 1704374719149
+info: Application reatrted at 1704374769002
+info: Application reatrted at 1704374868429
+info: Application reatrted at 1704374896954
+info: Application reatrted at 1704374911700
+info: Application reatrted at 1704374984353
+info: Application reatrted at 1704374995018
+info: Application reatrted at 1704375036891
+info: Application reatrted at 1704375112810
+info: Application reatrted at 1704375144486
+info: Application reatrted at 1704375164211
+info: Application reatrted at 1704375485265
+info: Application reatrted at 1704375509378
+info: Application reatrted at 1704375538956
+info: Application reatrted at 1704375555989
+info: Application reatrted at 1704375575450
+info: Application reatrted at 1704375636908
+info: Application reatrted at 1704375654929
+info: Application reatrted at 1704375752436
+info: Application reatrted at 1704375865357
+info: Application reatrted at 1704375949996
+info: Application reatrted at 1704376221547
+info: Application reatrted at 1704376308669
+info: Application reatrted at 1704376352022
+info: Application reatrted at 1704376368509
+info: Application reatrted at 1704376373712
+info: Application reatrted at 1704376380887
+info: Application reatrted at 1704376625457
+info: Application reatrted at 1704376644173
+info: Application reatrted at 1704376677761
+info: Application reatrted at 1704376692417
+info: Application reatrted at 1704376771485
+info: Application reatrted at 1704376815124
+info: Application reatrted at 1704376827715
+info: Application reatrted at 1704376845038
+info: Application reatrted at 1704376856425
+info: Application restarted at 1704377267232
+info: Application restarted at 1704377379603
+info: Application restarted at 1704377415084
+info: Application restarted at 1704377471600
+info: Application restarted at 1704377525432
+info: Application restarted at 1704377589900
+info: Application restarted at 1704377739548
+info: Application restarted at 1704378031868
+info: Application restarted at 1704378075112
+info: Application restarted at 1704378084295
+info: Application restarted at 1704378158535
+info: User has been logged in at 1704378476435
+info: List of items has been retrieved at 1704378783889
+info: Item has been retrieved by id at 1704378882545
+info: Application restarted at 1704379371591
+info: Application restarted at 1704379396290
+info: Application restarted at 1704379408126
+error: Error in list items api - {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-16qst5-shard-0","maxElectionId":"7fffffff0000000000000206","maxSetVersion":7,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null}}
+info: Application restarted at 1704379590205
+info: Application restarted at 1704379618477
+info: Application restarted at 1704379643458
+info: Application restarted at 1704379666903
+info: Application restarted at 1704379741391
+info: Application restarted at 1704379778022
+info: Application restarted at 1704379832412
+info: Application restarted at 1704379867144
+info: Application restarted at 1704379928267
+info: Application restarted at 1704380097969
+info: Application restarted at 1704380416661
+info: Application restarted at 1704380437787
+info: Application restarted at 1704380464102
+info: Application restarted at 1704380528826
+info: Application restarted at 1704384081586
+info: Application restarted at 1704384212036
+info: Application restarted at 1704384223560
+info: Application restarted at 1704384243391
+info: Application restarted at 1704384276258
+info: Application restarted at 1704384377357
+info: Application restarted at 1704384393024
+info: Application restarted at 1704384410826
+info: Application restarted at 1704384422162
+info: Application restarted at 1704384433364
+info: Application restarted at 1704384447682
+info: Application restarted at 1704384462065
+info: Application restarted at 1704384470278
+info: Application restarted at 1704384714864
+info: Application restarted at 1704384723985
+info: Application restarted at 1704384733628
+info: Application restarted at 1704384785864
+info: Application restarted at 1704384800178
+info: Application restarted at 1704384811794
+info: Application restarted at 1704384841798
+info: Application restarted at 1704384857258
+info: Application restarted at 1704384872831
+info: Application restarted at 1704384882157
+info: Application restarted at 1704384989805
+info: Application restarted at 1704385003466
+info: Application restarted at 1704385035524
+info: Application restarted at 1704385073562
+info: Application restarted at 1704385088008
+info: Application restarted at 1704385117802
+info: New user has been added and mail has been triggered at 1704385477502
+info: Email sent:  250 2.0.0 OK  1704385481 z3-20020a170903018300b001cfa718039bsm25766051plg.216 - gsmtp
+error: Error in log in api - {}
+info: User has been logged in at 1704386347462
+info: Application restarted at 1704386365829
+info: Item has been retrieved by id at 1704386757710
+info: List of items has been retrieved at 1704386909593
+info: Application restarted at 1704386982154
+info: User has been logged in at 1704387316951
+info: List of items has been retrieved at 1704387414010
+info: Item has been retrieved by id at 1704387724372
+info: Item has been retrieved by id at 1704387726371
+info: New item has been added at 1704388025693
+info: Item has been updated at 1704388302725
+info: Item has been deleted at 1704388744937
+info: Item has been retrieved by id at 1704388839264
+info: List of items has been retrieved at 1704388846103
+info: Application restarted at 1704393868941
